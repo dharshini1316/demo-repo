@@ -1,3 +1,3 @@
-# demo-repo
+MCP
 
 It contains ready to use model context protocol tools
