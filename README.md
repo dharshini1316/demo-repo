@@ -1,3 +1,3 @@
 # demo-repo
 
-It contains model context protocol
+It contains model context protocol.
