@@ -1,3 +1,3 @@
 # demo-repo
 
-It contains model context protocol.
+It contains ready to use model context protocol tools.
